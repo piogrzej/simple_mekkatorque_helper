@@ -1,0 +1,6 @@
+## Interface: 80100
+## Title: Simple Mekkatorque Helper
+## Author: Cassidi-ChamberOfAspects (github.com/piogrzej)
+## Version: 0.1.0
+
+simple_mekkatorque_helper.lua
